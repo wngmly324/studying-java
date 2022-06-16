@@ -15,3 +15,8 @@ public class Datatype {
 //		System.out.println(1111.length());
 	}
 }
+
+/*
+ * 출처
+ * 생활코딩, "JAVA1 - 6.2. 데이터 타입", https://www.youtube.com/watch?v=_D13-YBz4qk&t=262s
+ */
