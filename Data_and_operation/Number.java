@@ -15,3 +15,8 @@ public class Number {
 	}
 
 }
+
+/*
+ * 출처
+ * 생활코딩, "JAVA1 - 6.3. 숫자와 연산", https://www.youtube.com/watch?v=3atGGWQYaiU
+ */
