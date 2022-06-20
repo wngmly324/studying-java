@@ -13,6 +13,8 @@ public class InstanceApp {
 		PrintWriter p2 = new PrintWriter("result2.txt");
 		p2.write("Hello 2");
 		p2.close();
+		p2.toString();
+		p2.write("Hello 2");
 		
 //		PrintWriter.write("result1.txt", "Hello 1");
 //		PrintWriter.write("result2.txt", "Hello 2");
@@ -34,4 +36,5 @@ public class InstanceApp {
 /*
  * 출처
  * 생활코딩, "JAVA1 - 13.4. 자바 문서 보는 법 - 인스턴스", https://www.youtube.com/watch?v=NoXg98bgjT4
+ * 생활코딩, "JAVA1 - 13.5. 자바 문서 보는 법 - 상속", https://www.youtube.com/watch?v=LdWx-kHRoH4
  */
